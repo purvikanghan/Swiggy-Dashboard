@@ -30,7 +30,8 @@ This project showcases an interactive **Sales Performance Dashboard** created us
 - Ability to convert raw data into meaningful insights
 
 ## 📁 Project Files
-- Excel Dashboard File
+- Excel Das
+hboard File
 - Dataset (if allowed to share)
 - Screenshots (if added)
 
@@ -44,5 +45,9 @@ Special thanks to **Swapnjeet S** for guidance and support throughout this proje
 
 ---
 Feel free to explore and share your feedback! 😊
+
+<img width="1307" height="817" alt="Screenshot 2025-12-28 215127" src="https://github.com/user-attachments/assets/96fa19db-c218-4b03-b82a-2d5498497b8c" />
+
+
 
 
